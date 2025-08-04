@@ -1,5 +1,5 @@
 // Constantes para configuração do jogo
-const NUMERO_LIMITE = 10;
+const NUMERO_LIMITE = 20;
 const NUMERO_MINIMO = 1;
 
 // Estado do jogo encapsulado em um objeto
